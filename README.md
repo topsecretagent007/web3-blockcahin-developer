@@ -19,16 +19,16 @@ Here are some areas where I excel:
 
 I have worked on and contributed to several innovative projects:
 
-- **Decentralized Finance (DeFi) Application**: [Project Link](#)
-- **NFT Marketplace Development**: [Project Link](#)
-- **Blockchain Infrastructure Improvement**: [Project Link](#)
+- **Decentralized Finance (DeFi) Application**: [Project Link](https://github.com/lendon1114/pump.fun-frontend)
+- **NFT Marketplace Development**: [Project Link](https://github.com/Lendon-B/LOGARITHM-GAMES-MintNFT)
+- **Blockchain Infrastructure Improvement**: [Project Link](https://github.com/Lendon-B/superduck-painter)
 
 ## Connect with Me
 
 I enjoy connecting with fellow developers and professionals in the field. Feel free to reach out or explore my work further:
 
-- [LinkedIn](https://www.linkedin.com/in/[YourLinkedInProfile])
-- [Portfolio](https://www.yourportfolio.com)
+- [X](https://x.com/lendon1114)
+- [Portfolio](https://lendon-dev-profile.vercel.app)
 
 ## GitHub Stats
 
