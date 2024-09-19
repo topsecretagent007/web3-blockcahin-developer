@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile 👋
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=30&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Web3+Blockchain+Developer;-----Front-End+Development+Enthusiast)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=30&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Web3+Blockchain+Developer;-.----Front-End+Development+Enthusiast)
 
 ## About Me
 
