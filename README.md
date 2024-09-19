@@ -32,7 +32,7 @@ I enjoy connecting with fellow developers and professionals in the field. Feel f
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=[YourGitHub]&theme=github_dark)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lendon-B&theme=github_dark)
 
 ---
 
