@@ -28,6 +28,7 @@ I have worked on and contributed to several innovative projects:
 I enjoy connecting with fellow developers and professionals in the field. Feel free to reach out or explore my work further:
 
 - [X](https://x.com/lendon1114)
+- [Telegram](https://t.me/lendon1114)
 - [Portfolio](https://lendon-dev-profile.vercel.app)
 
 ## GitHub Stats
